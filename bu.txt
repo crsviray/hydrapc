@@ -1,0 +1,23 @@
+<body bgcolor="black">
+<nav>
+    <div class="nav-wrapper black darken-4" >
+    <ul class="list-inline">
+  <li><a class="light green-text text-darken-5" href="padios-web.html">Home</a></li>
+  <li><a class="light green-text text-darken-5" href="#">Components</a></li>
+  <li><a class="light green-text text-darken-5" href="#">Peripherals</a></li>
+  <li><a class="light green-text text-darken-5" href="#">Sign In</a></li>
+  <li><a class="light green-text text-darken-5" href="#">Register</a></li>
+</ul>
+    
+     
+    </div>
+    </ul>
+    </ul>
+  </nav>	
+
+ <script>
+  	$(document).ready(function(){
+    $('ul.tabs').tabs();
+  });
+        
+  </script>
